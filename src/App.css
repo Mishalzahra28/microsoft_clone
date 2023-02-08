@@ -1,0 +1,12 @@
+body {
+  background: white;
+}
+.heading2 {
+  font-weight: 600;
+  background-color: white;
+  margin: 0;
+  /* padding: 10px; */
+  padding-top: 40px;
+  padding-bottom: 0px;
+  padding-left: 20px;
+}
